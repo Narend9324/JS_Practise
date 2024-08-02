@@ -1,3 +1,5 @@
+//*** Variables & Data Types  ***
+
 //Activity 1  ** Variable declaration **
 //Task 1
 var number = 3;
